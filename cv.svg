@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 841.89" style="direction:ltr" class="document-preview">
+<rect fill="white" height="100%" width="100%"></rect>
+<path fill="#EEF1F2" d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z"></path>
+<path fill="#395a86" d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,55.625 C 200,55.625,200,55.625,200,55.625 L 0,55.625 C 0,55.625,0,55.625,0,55.625 L 0,0 C 0,0,0,0,0,0 Z"></path>
+<text fill="white" style="font:bold 15px LiberationSans;white-space:pre;letter-spacing:0px" y="45.1875" x="44.163818359375">Dmytro </text>
+<text fill="white" style="font:bold 15px LiberationSans;white-space:pre;letter-spacing:0px" y="45.1875" x="100.838623046875">Khaulin</text>
+<path fill="#395a86" d="M 0,53.625 L 200,53.625 C 200,53.625,200,53.625,200,53.625 L 200,68.625 C 200,68.625,200,68.625,200,68.625 C 140,96.625,60,96.625,0,68.625 C 0,68.625,0,68.625,0,68.625 L 0,53.625 C 0,53.625,0,53.625,0,53.625 Z"></path>
+<svg y="105.625" x="15" id="personalDetails"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="123.85" x="15">Personal </text>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="123.85" x="91.04296875">details</text>
+<path fill="#c8c8c8" d="M 15,134.375 L 185,134.375 C 185,134.375,185,134.375,185,134.375 L 185,134.875 C 185,134.875,185,134.875,185,134.875 L 15,134.875 C 15,134.875,15,134.875,15,134.875 L 15,134.375 C 15,134.375,15,134.375,15,134.375 Z"></path>
+<svg y="144.875" x="15"></svg>
+<image image-rendering="optimizeSpeed" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMzOTVhODYiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTIyNCAyNTZjNzAuNyAwIDEyOC01Ny4zIDEyOC0xMjhTMjk0LjcgMCAyMjQgMCA5NiA1Ny4zIDk2IDEyOHM1Ny4zIDEyOCAxMjggMTI4em04OS42IDMyaC0xNi43Yy0yMi4yIDEwLjItNDYuOSAxNi03Mi45IDE2cy01MC42LTUuOC03Mi45LTE2aC0xNi43QzYwLjIgMjg4IDAgMzQ4LjIgMCA0MjIuNFY0NjRjMCAyNi41IDIxLjUgNDggNDggNDhoMzUyYzI2LjUgMCA0OC0yMS41IDQ4LTQ4di00MS42YzAtNzQuMi02MC4yLTEzNC40LTEzNC40LTEzNC40eiI+PC9wYXRoPjwvc3ZnPg==" height="15" width="13.125" y="144.875" x="15.9375"></image>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="155" x="39">Dmytro </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="155" x="74">Khaulin</text>
+<svg y="174.875" x="15" id="emailaddress"></svg>
+<image image-rendering="optimizeSpeed" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMzOTVhODYiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTUwMi4zIDE5MC44YzMuOS0zLjEgOS43LS4yIDkuNyA0LjdWNDAwYzAgMjYuNS0yMS41IDQ4LTQ4IDQ4SDQ4Yy0yNi41IDAtNDgtMjEuNS00OC00OFYxOTUuNmMwLTUgNS43LTcuOCA5LjctNC43IDIyLjQgMTcuNCA1Mi4xIDM5LjUgMTU0LjEgMTEzLjYgMjEuMSAxNS40IDU2LjcgNDcuOCA5Mi4yIDQ3LjYgMzUuNy4zIDcyLTMyLjggOTIuMy00Ny42IDEwMi03NC4xIDEzMS42LTk2LjMgMTU0LTExMy43ek0yNTYgMzIwYzIzLjIuNCA1Ni42LTI5LjIgNzMuNC00MS40IDEzMi43LTk2LjMgMTQyLjgtMTA0LjcgMTczLjQtMTI4LjcgNS44LTQuNSA5LjItMTEuNSA5LjItMTguOXYtMTljMC0yNi41LTIxLjUtNDgtNDgtNDhINDhDMjEuNSA2NCAwIDg1LjUgMCAxMTJ2MTljMCA3LjQgMy40IDE0LjMgOS4yIDE4LjkgMzAuNiAyMy45IDQwLjcgMzIuNCAxNzMuNCAxMjguNyAxNi44IDEyLjIgNTAuMiA0MS44IDczLjQgNDEuNHoiPjwvcGF0aD48L3N2Zz4=" height="15" width="15" y="174.875" x="15"></image>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="185" x="39">dimakhaulin</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="185" x="92.3642578125">@</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="185" x="102.515625">gmail</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="185" x="126.412109375">.</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="185" x="129.1904296875">com</text>
+<svg y="204.875" x="15" id="phonenumber"></svg>
+<image image-rendering="optimizeSpeed" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMzOTVhODYiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQ5My40IDI0LjZsLTEwNC0yNGMtMTEuMy0yLjYtMjIuOSAzLjMtMjcuNSAxMy45bC00OCAxMTJjLTQuMiA5LjgtMS40IDIxLjMgNi45IDI4bDYwLjYgNDkuNmMtMzYgNzYuNy05OC45IDE0MC41LTE3Ny4yIDE3Ny4ybC00OS42LTYwLjZjLTYuOC04LjMtMTguMi0xMS4xLTI4LTYuOWwtMTEyIDQ4QzMuOSAzNjYuNS0yIDM3OC4xLjYgMzg5LjRsMjQgMTA0QzI3LjEgNTA0LjIgMzYuNyA1MTIgNDggNTEyYzI1Ni4xIDAgNDY0LTIwNy41IDQ2NC00NjQgMC0xMS4yLTcuNy0yMC45LTE4LjYtMjMuNHoiPjwvcGF0aD48L3N2Zz4=" height="15" width="15" y="204.875" x="15"></image>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="215" x="39">0679907105</text>
+<svg y="234.875" x="15" id="address"></svg>
+<image image-rendering="optimizeSpeed" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMzOTVhODYiIHZpZXdCb3g9IjAgMCA1NzYgNTEyIiB3aWR0aD0iNTc2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTI4MC4zNyAxNDguMjZMOTYgMzAwLjExVjQ2NGExNiAxNiAwIDAgMCAxNiAxNmwxMTIuMDYtLjI5YTE2IDE2IDAgMCAwIDE1LjkyLTE2VjM2OGExNiAxNiAwIDAgMSAxNi0xNmg2NGExNiAxNiAwIDAgMSAxNiAxNnY5NS42NGExNiAxNiAwIDAgMCAxNiAxNi4wNUw0NjQgNDgwYTE2IDE2IDAgMCAwIDE2LTE2VjMwMEwyOTUuNjcgMTQ4LjI2YTEyLjE5IDEyLjE5IDAgMCAwLTE1LjMgMHpNNTcxLjYgMjUxLjQ3TDQ4OCAxODIuNTZWNDQuMDVhMTIgMTIgMCAwIDAtMTItMTJoLTU2YTEyIDEyIDAgMCAwLTEyIDEydjcyLjYxTDMxOC40NyA0M2E0OCA0OCAwIDAgMC02MSAwTDQuMzQgMjUxLjQ3YTEyIDEyIDAgMCAwLTEuNiAxNi45bDI1LjUgMzFBMTIgMTIgMCAwIDAgNDUuMTUgMzAxbDIzNS4yMi0xOTMuNzRhMTIuMTkgMTIuMTkgMCAwIDEgMTUuMyAwTDUzMC45IDMwMWExMiAxMiAwIDAgMCAxNi45LTEuNmwyNS41LTMxYTEyIDEyIDAgMCAwLTEuNy0xNi45M3oiPjwvcGF0aD48L3N2Zz4=" height="15" width="16.875" y="234.875" x="14.0625"></image>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="245" x="39">Lviv</text>
+<svg y="264.875" x="15" id="linkedin"></svg>
+<image image-rendering="optimizeSpeed" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMzOTVhODYiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiI+PC9wYXRoPjwvc3ZnPg==" height="15" width="13.125" y="264.875" x="15.9375"></image>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="275" x="39">linkedin</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="275" x="72.9111328125">.</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="275" x="75.689453125">com/in/khaulin</text>
+<svg y="294.875" x="15" id="f93b0a02-14f1-4dfa-ae95-ad01038eec1c"></svg>
+<image image-rendering="optimizeSpeed" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMzOTVhODYiIHZpZXdCb3g9IjAgMCA0OTYgNTEyIiB3aWR0aD0iNDk2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTE2NS45IDM5Ny40YzAgMi0yLjMgMy42LTUuMiAzLjYtMy4zLjMtNS42LTEuMy01LjYtMy42IDAtMiAyLjMtMy42IDUuMi0zLjYgMy0uMyA1LjYgMS4zIDUuNiAzLjZ6bS0zMS4xLTQuNWMtLjcgMiAxLjMgNC4zIDQuMyA0LjkgMi42IDEgNS42IDAgNi4yLTJzLTEuMy00LjMtNC4zLTUuMmMtMi42LS43LTUuNS4zLTYuMiAyLjN6bTQ0LjItMS43Yy0yLjkuNy00LjkgMi42LTQuNiA0LjkuMyAyIDIuOSAzLjMgNS45IDIuNiAyLjktLjcgNC45LTIuNiA0LjYtNC42LS4zLTEuOS0zLTMuMi01LjktMi45ek0yNDQuOCA4QzEwNi4xIDggMCAxMTMuMyAwIDI1MmMwIDExMC45IDY5LjggMjA1LjggMTY5LjUgMjM5LjIgMTIuOCAyLjMgMTcuMy01LjYgMTcuMy0xMi4xIDAtNi4yLS4zLTQwLjQtLjMtNjEuNCAwIDAtNzAgMTUtODQuNy0yOS44IDAgMC0xMS40LTI5LjEtMjcuOC0zNi42IDAgMC0yMi45LTE1LjcgMS42LTE1LjQgMCAwIDI0LjkgMiAzOC42IDI1LjggMjEuOSAzOC42IDU4LjYgMjcuNSA3Mi45IDIwLjkgMi4zLTE2IDguOC0yNy4xIDE2LTMzLjctNTUuOS02LjItMTEyLjMtMTQuMy0xMTIuMy0xMTAuNSAwLTI3LjUgNy42LTQxLjMgMjMuNi01OC45LTIuNi02LjUtMTEuMS0zMy4zIDIuNi02Ny45IDIwLjktNi41IDY5IDI3IDY5IDI3IDIwLTUuNiA0MS41LTguNSA2Mi44LTguNXM0Mi44IDIuOSA2Mi44IDguNWMwIDAgNDguMS0zMy42IDY5LTI3IDEzLjcgMzQuNyA1LjIgNjEuNCAyLjYgNjcuOSAxNiAxNy43IDI1LjggMzEuNSAyNS44IDU4LjkgMCA5Ni41LTU4LjkgMTA0LjItMTE0LjggMTEwLjUgOS4yIDcuOSAxNyAyMi45IDE3IDQ2LjQgMCAzMy43LS4zIDc1LjQtLjMgODMuNiAwIDYuNSA0LjYgMTQuNCAxNy4zIDEyLjFDNDI4LjIgNDU3LjggNDk2IDM2Mi45IDQ5NiAyNTIgNDk2IDExMy4zIDM4My41IDggMjQ0LjggOHpNOTcuMiAzNTIuOWMtMS4zIDEtMSAzLjMuNyA1LjIgMS42IDEuNiAzLjkgMi4zIDUuMiAxIDEuMy0xIDEtMy4zLS43LTUuMi0xLjYtMS42LTMuOS0yLjMtNS4yLTF6bS0xMC44LTguMWMtLjcgMS4zLjMgMi45IDIuMyAzLjkgMS42IDEgMy42LjcgNC4zLS43LjctMS4zLS4zLTIuOS0yLjMtMy45LTItLjYtMy42LS4zLTQuMy43em0zMi40IDM1LjZjLTEuNiAxLjMtMSA0LjMgMS4zIDYuMiAyLjMgMi4zIDUuMiAyLjYgNi41IDEgMS4zLTEuMy43LTQuMy0xLjMtNi4yLTIuMi0yLjMtNS4yLTIuNi02LjUtMXptLTExLjQtMTQuN2MtMS42IDEtMS42IDMuNiAwIDUuOSAxLjYgMi4zIDQuMyAzLjMgNS42IDIuMyAxLjYtMS4zIDEuNi0zLjkgMC02LjItMS40LTIuMy00LTMuMy01LjYtMnoiLz48L3N2Zz4=" height="15" width="14.53125" y="294.875" x="15.234375"></image>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="305" x="39">github</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="305" x="66.24609375">.</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="305" x="69.0244140625">com/khaulinD</text>
+<svg y="334.875" x="15" id="skills"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="353.1" x="15">Skills</text>
+<path fill="#c8c8c8" d="M 15,363.625 L 185,363.625 C 185,363.625,185,363.625,185,363.625 L 185,364.125 C 185,364.125,185,364.125,185,364.125 L 15,364.125 C 15,364.125,15,364.125,15,364.125 L 15,363.625 C 15,363.625,15,363.625,15,363.625 Z"></path>
+<svg y="374.125" x="15" id="cbdba6b6-f664-4f6d-95db-965802e82e9b"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="384.25" x="15">Python</text>
+<svg y="397.875" x="15" id="01a3ce5c-597b-4ea4-a79c-0b858ac083b0"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="408" x="15">Django</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="408" x="46.689453125">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="408" x="52.24609375">Django </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="408" x="86.7138671875">REST </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="408" x="116.162109375">framework</text>
+<svg y="421.625" x="15" id="fe4a7ccd-b829-4149-84ca-2f158634cf60"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="431.75" x="15">SQL </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="431.75" x="37.7880859375">(</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="431.75" x="41.1181640625">PostgreSQL</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="431.75" x="95.5908203125">)</text>
+<svg y="445.375" x="15" id="e486f904-8150-4a9a-97f6-a64b545490ba"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="455.5" x="15">Django </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="455.5" x="49.4677734375">ORM</text>
+<svg y="469.125" x="15" id="57453718-ab52-4760-ae9e-e899e9fb1dac"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="479.25" x="15">Celery</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="479.25" x="43.896484375">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="479.25" x="49.453125">Redis</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="479.25" x="75.01953125">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="479.25" x="80.576171875">Swagger</text>
+<svg y="492.875" x="15" id="15d89e7e-b639-4f63-86c9-33cececf7b1b"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="503" x="15">Git </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="503" x="30.556640625">&amp; </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="503" x="40.0048828125">GitHub</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="503" x="71.1279296875">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="503" x="76.6845703125">Nginx</text>
+<svg y="516.625" x="15" id="065584ad-06d4-43a4-a6a5-bcb6503dfed2"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="526.75" x="15">Docker</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="526.75" x="46.6748046875">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="526.75" x="52.2314453125">Docker</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="526.75" x="83.90625">-</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="526.75" x="87.236328125">compose</text>
+<svg y="540.375" x="15" id="0b753db4-94b3-4c69-b975-f66e7056d217"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="550.5" x="15">HTTP</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="550.5" x="41.1083984375">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="550.5" x="46.6650390625">Rest </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="550.5" x="70.0048828125">API</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="550.5" x="86.123046875">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="550.5" x="91.6796875">WebSocket</text>
+<svg y="564.125" x="15" id="1a0b25d8-0dd0-4036-8848-3326131beca0"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="15">Typescript</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="61.123046875">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="66.6796875">React</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="92.802734375">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="98.359375">CSS</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="118.9208984375">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="574.25" x="124.4775390625">HTML</text>
+<svg y="587.875" x="15" id="9e227836-197a-4469-97e2-131851571794"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="15">OPP</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="36.1181640625">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="41.6748046875">SOLID</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="71.6845703125">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="77.2412109375">DRY</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="98.3544921875">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="598" x="103.9111328125">KISS</text>
+<svg y="621.625" x="15" id="languages"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="639.85" x="15">Languages</text>
+<path fill="#c8c8c8" d="M 15,650.375 L 185,650.375 C 185,650.375,185,650.375,185,650.375 L 185,650.875 C 185,650.875,185,650.875,185,650.875 L 15,650.875 C 15,650.875,15,650.875,15,650.875 L 15,650.375 C 15,650.375,15,650.375,15,650.375 Z"></path>
+<svg y="660.875" x="15" id="03609306-7f17-4160-943b-2996925e027a"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="671" x="15">Ukrainian</text>
+<circle fill="#395a86" r="3.75" cy="667.5" cx="141.25"></circle>
+<circle fill="#395a86" r="3.75" cy="667.5" cx="151.25"></circle>
+<circle fill="#395a86" r="3.75" cy="667.5" cx="161.25"></circle>
+<circle fill="#395a86" r="3.75" cy="667.5" cx="171.25"></circle>
+<circle fill="#395a86" r="3.75" cy="667.5" cx="181.25"></circle>
+<svg y="684.625" x="15" id="05d3f428-6c55-4ad5-91b5-0d5725474781"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="694.75" x="15">English</text>
+<circle fill="#395a86" r="3.75" cy="691.25" cx="141.25"></circle>
+<circle fill="#395a86" r="3.75" cy="691.25" cx="151.25"></circle>
+<circle fill="#395a86" r="3.75" cy="691.25" cx="161.25"></circle>
+<circle fill="#c8c8c8" r="3.75" cy="691.25" cx="171.25"></circle>
+<circle fill="#c8c8c8" r="3.75" cy="691.25" cx="181.25"></circle>
+<svg y="718.375" x="15" id="hobbies"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="736.6" x="15">Hobbies</text>
+<path fill="#c8c8c8" d="M 15,747.125 L 185,747.125 C 185,747.125,185,747.125,185,747.125 L 185,747.625 C 185,747.625,185,747.625,185,747.625 L 15,747.625 C 15,747.625,15,747.625,15,747.625 L 15,747.125 C 15,747.125,15,747.125,15,747.125 Z"></path>
+<svg y="757.625" x="15" id="64bd1d5c-9b90-4a8c-ab14-4a6ebf14fe6b"></svg>
+<path fill="#395a86" d="M 15,760.75 L 22.5,760.75 C 22.5,760.75,22.5,760.75,22.5,760.75 L 22.5,768.25 C 22.5,768.25,22.5,768.25,22.5,768.25 L 15,768.25 C 15,768.25,15,768.25,15,768.25 L 15,760.75 C 15,760.75,15,760.75,15,760.75 Z"></path>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="767.75" x="27.5">practice </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="767.75" x="65.29296875">at </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="767.75" x="76.4111328125">Leetcode</text>
+<svg y="30" x="215" id="educations"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="48.225" x="215">Education</text>
+<path fill="#c8c8c8" d="M 215,58.75 L 580.28,58.75 C 580.28,58.75,580.28,58.75,580.28,58.75 L 580.28,59.25 C 580.28,59.25,580.28,59.25,580.28,59.25 L 215,59.25 C 215,59.25,215,59.25,215,59.25 L 215,58.75 C 215,58.75,215,58.75,215,58.75 Z"></path>
+<svg y="74.25" x="215" id="06d64f05-2f1a-4a7d-8b55-ed19822cbd2d"></svg>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="215">BACHELOR </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="274.443359375">OF </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="291.1083984375">SCIENCE </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="338.33984375">IN </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="351.1181640625">COMPUTER </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="98.125" x="215">ENGINEERING</text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="485.7829296875">Sep </text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="506.90109375">2022 </text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="531.9255078125">- </text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="538.03390625">Apr </text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="84.375" x="558.03390625">2026</text>
+<text fill="#395a86" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="111.875" x="215">Lviv </text>
+<text fill="#395a86" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="111.875" x="235.5615234375">Polytechnic </text>
+<text fill="#395a86" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="111.875" x="289.4775390625">National </text>
+<text fill="#395a86" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="111.875" x="328.9453125">University</text>
+<text fill="#395a86" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="111.875" x="372.841796875">, </text>
+<text fill="#395a86" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="111.875" x="378.3984375">Lviv</text>
+<svg y="130.5" x="215" id="courses"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="148.725" x="215">Courses</text>
+<path fill="#c8c8c8" d="M 215,159.25 L 580.28,159.25 C 580.28,159.25,580.28,159.25,580.28,159.25 L 580.28,159.75 C 580.28,159.75,580.28,159.75,580.28,159.75 L 215,159.75 C 215,159.75,215,159.75,215,159.75 L 215,159.25 C 215,159.25,215,159.25,215,159.25 Z"></path>
+<svg y="174.75" x="215" id="a8afd8d5-3a6f-41cc-92e9-8d759723b8b5"></svg>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="215">Full </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="235.5517578125">Stack </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="265.0146484375">- </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="271.123046875">React </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="301.1376953125">Django </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="337.802734375">DRF </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="361.1328125">Channels </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="198.625" x="215">Project</text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="536.910859375">Dec </text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="184.875" x="558.03390625">2023</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="215">This </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="236.669921875">course </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="269.462890625">guides </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="301.708984375">through </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="338.4033203125">building </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="375.654296875">a </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="383.994140625">Django </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="418.4619140625">DRF </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="441.7919921875">project</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="471.806640625">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="477.36328125">integrating </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="526.8408203125">with </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="547.40234375">React</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="212.375" x="573.525390625">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="215">and </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="234.462890625">implementing </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="296.7138671875">crucial </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="328.388671875">features </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="367.2998046875">like </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="385.0830078125">authentication </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="450.1318359375">and </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="469.5947265625">chat </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="491.2744140625">functionality</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="226.125" x="544.08203125">.</text>
+<svg y="239.75" x="215" id="db42cd5a-fc13-440b-8501-a4caa5fa1fe8"></svg>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="249.875" x="215">Learn </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="249.875" x="245.009765625">Python </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="249.875" x="281.6748046875">on </text>
+<text fill="black" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="249.875" x="296.669921875">Scrimba</text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="249.875" x="538.5856640625">Oct </text>
+<text fill="#395a86" style="font:bold 10px LiberationSans;white-space:pre;letter-spacing:0px" y="249.875" x="558.03390625">2022</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="215">This </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="236.669921875">is </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="246.669921875">a </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="255.009765625">short </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="280.01953125">course </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="312.8125">that </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="332.2705078125">will </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="348.935546875">teach </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="376.1767578125">you </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="395.078125">the </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="411.7578125">basics </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="442.880859375">of </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="453.9990234375">Python </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="487.91015625">in </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="498.4716796875">practice</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="263.625" x="533.486328125">.</text>
+<svg y="282.25" x="215" id="cb23b6ec-2cb5-41b4-9918-1cfb0c3066a5"></svg>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="300.475" x="215">About </text>
+<text fill="#395a86" style="font:normal 18px LiberationSans;white-space:pre;letter-spacing:0px" y="300.475" x="267.0400390625">me</text>
+<path fill="#c8c8c8" d="M 215,311 L 580.28,311 C 580.28,311,580.28,311,580.28,311 L 580.28,311.5 C 580.28,311.5,580.28,311.5,580.28,311.5 L 215,311.5 C 215,311.5,215,311.5,215,311.5 L 215,311 C 215,311,215,311,215,311 Z"></path>
+<svg y="326.5" x="215" id="description"></svg>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="215">I </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="220.556640625">am </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="237.2265625">a </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="245.56640625">motivated </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="291.69921875">Python </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="325.6103515625">developer </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="372.3095703125">with </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="392.87109375">a </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="401.2109375">thirst </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="425.6591796875">for </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="440.107421875">knowledge</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="487.919921875">. </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="493.4765625">I </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="499.033203125">have </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="523.49609375">skills </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="336.625" x="547.939453125">in </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="215">working </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="252.236328125">with </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="272.7978515625">Django </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="307.265625">and </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="326.728515625">other </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="352.2998046875">supporting </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="401.77734375">frameworks</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="453.4521484375">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="459.0087890625">working </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="496.2451171875">with </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="350.375" x="516.806640625">relational </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="215">databases</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="261.1474609375">. </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="266.7041015625">I </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="272.2607421875">plan </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="293.9453125">my </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="310.0537109375">time </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="331.7236328125">well</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="348.9501953125">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="354.5068359375">always </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="387.8515625">punctual</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="425.6591796875">, </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="431.2158203125">and </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="450.6787109375">ready </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="478.4716796875">for </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="492.919921875">new </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="514.04296875">and </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="364.125" x="533.505859375">interesting </text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="377.875" x="215">challenges</text>
+<text fill="black" style="font:normal 10px LiberationSans;white-space:pre;letter-spacing:0px" y="377.875" x="262.8125">.</text>
+<path fill="#395a86" d="M 0,801.89 C 60,829.89,140,829.89,200,801.89 C 200,801.89,200,801.89,200,801.89 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,801.89 C 0,801.89,0,801.89,0,801.89 Z"></path>
+</svg>
